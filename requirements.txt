@@ -2,5 +2,4 @@ fastapi[all]
 pydantic
 joblib
 fastapi
-sklearn
 scikit-learn
