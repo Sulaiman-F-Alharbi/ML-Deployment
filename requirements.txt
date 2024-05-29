@@ -3,3 +3,4 @@ pydantic
 joblib
 fastapi
 sklearn
+scikit-learn
